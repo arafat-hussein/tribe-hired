@@ -7,12 +7,12 @@
 
 /tribe-hired-git/comments_filter.php?offset=0&limit=5&name=quo&body=quo&email=io
 
-SEARCH PARAMETERS
-postId : id value of the post
-id : id value of the comment
-name : name parameter in comment
-email : email parameter of the comment 
-body : body parameter of the comment
+SEARCH PARAMETERS  
+postId : id value of the post  
+id : id value of the comment  
+name : name parameter in comment  
+email : email parameter of the comment   
+body : body parameter of the comment  
 
 atleast one of the parameter is compulsory
 offset default value is zero and limit default value is 10
